@@ -1,5 +1,8 @@
 Revision history for String-Splitter
 
+0.2     Date/time
+        Fixed version inconsistency - 0.01 in package vs 0.1 in file
+
 0.01    Date/time
         First version, released on an unsuspecting world.
 
