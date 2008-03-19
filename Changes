@@ -1,6 +1,9 @@
 Revision history for String-Splitter
 
-0.2     Date/time
+0.3     2008-03-19 13:00:00 CET
+        Fixed UTF in POD
+
+0.2     2008-03-18 16:00:00 CET
         Fixed version inconsistency - 0.01 in package vs 0.1 in file
 
 0.01    Date/time
