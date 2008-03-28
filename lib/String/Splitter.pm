@@ -14,11 +14,11 @@ String::Splitter - Find all possible string splits and unique substrings.
 
 =head1 VERSION
 
-Version 0.3
+Version 0.4
 
 =cut
 
-our $VERSION = '0.3';
+our $VERSION = '0.4';
 
 =head1 SYNOPSIS
 
